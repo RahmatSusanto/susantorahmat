@@ -1,0 +1,17 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  background-color:hsla(199, 45%, 65%, 0.938);
+}
+#projects {
+  background-color: hsla(199, 45%, 65%, 0.938);
+}
+section {
+  padding-top: 5rem;
+}
+#contact {
+  background-color: hsla(199, 45%, 65%, 0.938);
+}
+#about {
+  background-color: hsla(199, 45%, 65%, 0.938);
